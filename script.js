@@ -8,7 +8,7 @@
 
 
     if(hour === 0){
-        h = 12
+        hour = 12
     }
 
     if(hour > 12){
